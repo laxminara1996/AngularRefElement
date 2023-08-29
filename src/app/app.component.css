@@ -1,0 +1,13 @@
+.container{
+    width:1000px;
+    height:1000px;
+    border:1px dotted black;
+    background-color: azure;
+}
+.myClass{
+    border:1px solid red;
+     background-color: antiquewhite;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    }
